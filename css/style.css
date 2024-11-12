@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(0deg, white 0%, white 100%), linear-gradient(0deg, #F5F9F8 0%, #F5F9F8 100%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header {
+    width: 100%;
+    min-height: 400px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #F5F9F8;
+}
+
+.nav {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0;
+    margin-bottom: 70px;
+    box-sizing: border-box;
+}
+
+.nav a {
+    margin: 0 15px;
+    color: white;
+    font-size: 24px;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.nav a:hover {
+    color: #b6cbf3
+}
+
+.links {
+    background-color: #468189;
+    border-radius: 2rem;
+    padding: 0 20px;
+}
+
+.title {
+    text-align: center;
+    color: #003E3B;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.title h1 {
+    font-size: 48px;
+}
+
+.title h2 {
+    font-size: 36px;
+    color: #003e3bbd;
+}
+
+.button {
+    padding: 15px;
+    margin-top: 40px;
+    background: #468189;
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 24px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.dicas {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 50px;
+    background: #468189;
+    padding: 20px;
+    position: relative;
+}
+
+.dicas-title {
+    font-size: 32px;
+    color: white;
+    font-weight: 700;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    margin-bottom: 20px;
+    z-index: 1;
+}
+
+.dicas-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 100%;
+    z-index: 0;
+}
+
+.dica {
+    width: 250px;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.dica img {
+    width: 100%;
+    height: 300px;
+    border-radius: 0 0 1rem 1rem;
+    object-fit: cover;
+}
+
+.dica-header {
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 10px;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    text-align: center;
+}
+
+.dica-text {
+    position: relative;
+    padding: 15px 0;
+    color: black;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    word-wrap: break-word;
+    height: 105px;
+    overflow: hidden;
+    top: 0;
+}
+
+.dica-button {
+    margin-top: 10px;
+    left: 20px;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 20px;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.footer {
+    width: 100%;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 50px;
+}
