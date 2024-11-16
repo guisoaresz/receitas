@@ -1,0 +1,13 @@
+{
+    "titulo": "Almoço - Frango Grelhado com Legumes Salteados",
+    "ingredientes": ["1x peito de frango (pode ser filé)", "1x abobrinha", "1x cenoura", "1x pimentão", "1x dente de alho", "Azeite de oliva", "Sal e pimenta a gosto", "Ervas frescas (alecrim ou tomilho, opcional)"],
+    "preparo": [
+        "1 - Tempere o frango com sal, pimenta e ervas a gosto.",
+        "2 - Aqueça uma frigideira com um fio de azeite e grelhe o frango por 5-7 minutos de cada lado, até ficar dourado e cozido por dentro.",
+        "3 - Enquanto o frango grelha, corte os legumes (abobrinha, cenoura e pimentão) em tiras ou rodelas.",
+        "4 - Em outra frigideira, aqueça um pouco de azeite e refogue o alho picado por 1 minuto.",
+        "5 - Adicione os legumes e refogue por 5-6 minutos, até ficarem al dente. Tempere com sal e pimenta.",
+        "6 - Sirva o frango grelhado com os legumes salteados."
+    ],
+    "imagem": "assets/images/almocoUm.jpeg"
+}

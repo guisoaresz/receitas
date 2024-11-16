@@ -1,0 +1,13 @@
+{
+    "titulo": "Janta - Sopa Cremosa de Abóbora",
+    "ingredientes": ["500g de abóbora (descascada e cortada em cubos)", "1x cebola picada", "2x dentes de alho picados", "1x cenoura picada", "1x caldo de legumes (ou 1 cubo)", "1/2 xícara de creme de leite (opcional, para deixar mais cremosa)", "Azeite de oliva", "Sal e pimenta"],
+    "preparo": [
+        "1 - Em uma panela grande, aqueça um fio de azeite e refogue a cebola e o alho até ficarem dourados.",
+        "2 - Adicione a abóbora e a cenoura picadas. Refogue por mais 2-3 minutos.",
+        "3 - Coloque o caldo de legumes e cubra os ingredientes com água. Deixe cozinhar por cerca de 15-20 minutos, até que a abóbora e a cenoura estejam macias.",
+        "4 - Bata tudo no liquidificador ou use um mixer até obter um creme liso e homogêneo.",
+        "5 - Volte a sopa para a panela, adicione o creme de leite (se for usar) e ajuste o sal e a pimenta.",
+        "6 - Deixe ferver por 5 minutos e sirva quente, decorando com sementes de abóbora ou ervas frescas, se desejar."
+    ],
+    "imagem": "assets/images/jantaUm.jpeg"
+}

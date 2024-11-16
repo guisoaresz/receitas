@@ -1,0 +1,12 @@
+{
+    "titulo": "Janta - Salada Quente de Frango com Quinoa",
+    "ingredientes": ["1x peito de frango (cortado em tiras)", "1/2 xícara de quinoa", "1x pepino picado", "1x tomate picado", "Folhas de espinafre ou alface", "1 colher de sopa de azeite de oliva", "Suco de limão", "Sal e pimenta"],
+    "preparo": [
+        "1 - Cozinhe a quinoa conforme as instruções da embalagem e reserve.",
+        "2 - Tempere o frango com sal, pimenta e um pouco de azeite. Grelhe o frango até que esteja dourado e cozido, cerca de 5-7 minutos de cada lado.",
+        "3 - Em uma tigela grande, combine a quinoa cozida, o pepino picado, o tomate e as folhas de espinafre ou alface.",
+        "4 - Adicione o frango grelhado cortado em tiras.",
+        "5 - Regue com azeite e suco de limão a gosto. Misture bem e sirva imediatamente."
+    ],
+    "imagem": "assets/images/jantaDois.jpg"
+}

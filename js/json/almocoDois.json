@@ -1,0 +1,12 @@
+{
+    "titulo": "Almoço - Arroz de Coco com Camarões",
+    "ingredientes": ["1x xícara de arroz", "200g de camarões limpos", "1/2 cebola picada", "1x dente de alho picado", "1/2 xícara de leite de coco", "Azeite de oliva", "Sal e pimenta a gosto", "Salsinha picada para decorar"],
+    "preparo": [
+        "1 - Cozinhe o arroz normalmente, substituindo a água por um pouco de leite de coco para dar mais sabor. Se preferir, pode fazer o arroz de forma tradicional e adicionar o leite de coco no final.",
+        "2 - Em uma frigideira, aqueça um pouco de azeite e refogue a cebola e o alho até ficarem dourados.",
+        "3 - Adicione os camarões, tempere com sal e pimenta e cozinhe por 3-4 minutos, até ficarem rosados e macios.",
+        "4 - Misture o arroz de coco com os camarões e decore com salsinha picada.",
+        "5 - Sirva quente."
+    ],
+    "imagem": "assets/images/almocoDois.jpeg"
+}

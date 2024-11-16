@@ -1,0 +1,12 @@
+{
+    "titulo": "Janta - Taco de Peixe com Abacaxi e Molho Picante",
+    "ingredientes": ["2x filés de peixe branco (como tilápia ou linguado)", "1/2 abacaxi cortado em cubos pequenos", "1/2 cebola roxa fatiada", "Tortilhas de milho ou trigo (quantidade a gosto)", "Coentro fresco a gosto", "1 colher de chá de pimenta vermelha (opcional)", "Suco de limão", "Sal e pimenta", "Azeite de Oliva"],
+    "preparo": [
+        "1 - Tempere os filés de peixe com sal, pimenta e o suco de limão.",
+        "2 - Aqueça uma frigideira com azeite e grelhe os filés de peixe por 3-4 minutos de cada lado, até estarem dourados e cozidos.",
+        "3 - Enquanto o peixe cozinha, prepare o molho de abacaxi: em uma tigela, misture o abacaxi, a cebola roxa, coentro fresco e a pimenta vermelha (se desejar).",
+        "4 - Aqueça as tortilhas na frigideira por 1-2 minutos, só para ficarem levemente douradas.",
+        "5 - Monte os tacos: coloque o peixe grelhado nas tortilhas, adicione o molho de abacaxi por cima e sirva imediatamente."
+    ],
+    "imagem": "assets/images/jantaTres.jpg"
+}

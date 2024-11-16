@@ -1,0 +1,11 @@
+{
+    "titulo": "Almoço - Salada de Atum com Feijão Preto",
+    "ingredientes": ["1x lata de atum (preferencialmente em água)", "1x xícara de feijão preto cozido", "1/2 cebola roxa fatiada", "1x tomate picado", "Folhas de alface ou rúcula", "Azeite de oliva", "Sal e pimenta"],
+    "preparo": [
+        "1 - Em uma tigela, misture o atum escorrido com o feijão preto cozido.",
+        "2 - Adicione o tomate picado, a cebola roxa fatiada e as folhas de alface ou rúcula.",
+        "3 - Tempere com azeite, suco de limão, sal e pimenta a gosto.",
+        "4 - Misture bem e sirva imediatamente."
+    ],
+    "imagem": "assets/images/almocoTres.jpeg"
+}
