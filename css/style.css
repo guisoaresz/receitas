@@ -251,11 +251,11 @@ html {
 }
 
 @media(max-width: 425px) {
-    nav {
-        padding: 0 10px 0 10px !important;
+    .nav {
+        padding: 0 10px 0 10px;
     }
-    nav a {
-        font-size: clamp(14px, 10vw, 18px) !important;
+    .nav a {
+        font-size: clamp(14px, 10vw, 18px);
         margin: 0 !important;
     }
     .links {
