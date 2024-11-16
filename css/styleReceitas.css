@@ -106,3 +106,9 @@ img.imgReceita:hover {
         object-position: center center;
     }
 }
+
+@media(max-width: 425px) {
+    .principal {
+        padding: 2rem 2px;
+    }
+}

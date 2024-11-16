@@ -249,3 +249,19 @@ html {
         object-position: center center;
     }
 }
+
+@media(max-width: 425px) {
+    nav {
+        padding: 0 10px 0 10px;
+    }
+    nav .links a {
+        font-size: clamp(14px, 10vw, 18px);
+        margin: 0;
+    }
+    .links {
+        padding: .8rem 1.4rem;
+        width: 100%;
+        display: flex;
+        justify-content: space-evenly;
+    }
+}
