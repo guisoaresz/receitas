@@ -7,6 +7,10 @@
     font-family: 'Poppins', sans-serif;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 .container {
     width: 100%;
     min-height: 100vh;
@@ -34,6 +38,9 @@
     padding: 0 0 0 10px;
     margin-bottom: 70px;
     box-sizing: border-box;
+    position: fixed;
+    top: 0;
+    z-index: 1000;
 }
 
 .nav a {
@@ -57,6 +64,7 @@
     padding: .8rem 1.8rem;
     width: 384px;
     white-space: nowrap;
+    box-shadow: 0 10px 20px -20px;
 }
 
 .title {
@@ -64,6 +72,7 @@
     color: #003E3B;
     font-weight: 700;
     margin-bottom: 20px;
+    margin-top: 140px;
 }
 
 .title h1 {
@@ -182,10 +191,11 @@
     position: relative;
     align-items: center;
 }
-.dica-button h2 {
+.dica-button a {
     color: #fff;
     font-size: 20px;
     font-weight: 700;
+    text-decoration: none;
     line-height: 20px;
     background: linear-gradient(to top, #0e263669 20%, transparent);
     padding: 12px 8px 12px 8px;
@@ -203,13 +213,13 @@
     opacity: 0;
     transition: .6s;
 }
-.dica-button h2:hover {
+.dica-button a:hover {
     padding: 12px 34px 12px 8px;
     box-shadow: inset 0 -45px 40px #305e69;
     color: #dee9ff;
     transition: .6s, padding .6s;
 }
-.dica-button h2:hover + .arrow {
+.dica-button a:hover + .arrow {
     opacity: 1;
     transform: translateX(8px);
     background: #dee9ff;

@@ -1,0 +1,10 @@
+{
+    "titulo": "Café da Manhã - Iogurte com Granola e Frutas",
+    "ingredientes": ["1x pote de iogurte natural ou grego", "2x colheres de sopa de granola", "1/2 banana fatiada", "1x punhado de frutas vermelhas (morango, mirtilo, framboesa)"],
+    "preparo": [
+        "1 - Em uma tigela, coloque o iogurte.",
+        "2 - Adicione a granola por cima e as frutas fatiadas.",
+        "3 - Misture delicadamente e sirva. Se desejar, pode adicionar mel ou um fio de azeite de oliva para dar um toque especial."
+    ],
+    "imagem": "assets/images/cafeTres.jpeg"
+}

@@ -1,0 +1,12 @@
+{
+    "titulo": "Café da Manhã - Torrada Integral com Abacate e Ovo",
+    "ingredientes": ["1x fatia de pão integral", "1/2 Abacate maduro ", "1x ovo", "Sal e pimenta a gosto", "Limão (opcional)"],
+    "preparo": [
+        "1 - Torre a fatia de pão até ficar crocante.",
+        "2 - Enquanto isso, amasse o abacate com um garfo e tempere com sal, pimenta e um pouco de suco de limão.",
+        "3 - Frite o ovo como preferir (estilo poché, frito ou mexido).",
+        "4 - Espalhe o abacate na torrada e coloque o ovo por cima.",
+        "5 - Sirva imediatamente, podendo adicionar tomate ou folhas verdes para complementar."
+    ],
+    "imagem": "assets/images/cafeDois.jpeg"
+}

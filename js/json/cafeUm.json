@@ -1,0 +1,12 @@
+{
+    "titulo": "Café da Manhã - Panqueca de Banana e Aveia",
+    "ingredientes": ["1x banana madura", "1x ovo", "3x colheres de sopa de aveia", "1 colher de chá de canela (opcional)"],
+    "preparo": [
+        "1 - Amasse a banana com um garfo até virar um purê.",
+        "2 - Adicione o ovo, a aveia e a canela (se desejar) e misture bem.",
+        "3 - Aqueça uma frigideira antiaderente em fogo médio e, com a ajuda de uma colher, despeje porções da massa na frigideira.",
+        "4 - Cozinhe por 2-3 minutos de cada lado, até dourar.",
+        "5 - Sirva com mel, frutas ou iogurte."
+    ],
+    "imagem": "assets/images/cafeUm.png"
+}
